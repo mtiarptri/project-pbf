@@ -192,14 +192,14 @@ Response `404 Not Found` jika ID tidak ada:
 
 Menghapus buku berdasarkan ID.
 
-Response `200 OK` (contoh `/api/buku/2`):
+Response `200 OK` (contoh `/api/buku/3`):
 
 ```json
 {
   "success": true,
   "message": "Data berhasil dihapus",
   "data": {
-    "id": 2,
+    "id": 3,
     "kode": "BK002",
     "judul": "Belajar Node.js dan Express",
     "pengarang": "Budi Santoso",
