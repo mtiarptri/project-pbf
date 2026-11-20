@@ -255,7 +255,7 @@ Status 200 OK, judul dan stok berubah, field lain tetap.
 
 ![PUT](screenshots/4-put.png)
 
-### 5. Menghapus data (DELETE /api/buku/2)
+### 5. Menghapus data (DELETE /api/buku/3)
 Status 200 OK, data yang dihapus dikembalikan pada response.
 
 ![DELETE](screenshots/5-delete.png)
