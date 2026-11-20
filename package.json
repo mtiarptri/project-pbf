@@ -1,0 +1,15 @@
+{
+  "name": "project-pbf",
+  "version": "1.0.0",
+  "description": "REST API Sistem Informasi Perpustakaan menggunakan Node.js dan Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": ["express", "rest-api", "perpustakaan"],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
